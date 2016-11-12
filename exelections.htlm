@@ -12,8 +12,8 @@
 
 <script>
   var datos = [
-  {"candidato":"trump","seguidores":14607000},
-  {"candidato":"clinton","seguidores":10946000}
+  {"candidato":"trump","seguidores":14607000,color:"#cc3d3d"},
+  {"candidato":"clinton","seguidores":10946000,color:"#1a80c4"}
 ];
 
 /**
