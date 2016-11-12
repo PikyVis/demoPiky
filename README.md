@@ -1,3 +1,3 @@
 # demoPiky
 
-https://pikyvis.github.io/demoPiky/exelections.html
+https://pikyvis.github.io/demoPiky/exelections.htlm 
